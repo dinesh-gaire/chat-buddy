@@ -101,7 +101,7 @@ We welcome contributions from the community!
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/dinesh-gaire/chat-buddy.git
+   git clone https://github.com/yourusername/chat-buddy.git
    ```
 
 2. **Create a New Branch**
